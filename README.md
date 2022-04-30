@@ -6,3 +6,8 @@ This repo contains our work as part of the course FIN-407 Financial Econometrics
 Authors:
 - Benjamin Rike
 - Asbjørn Nisi
+
+
+Links:
+- https://openreview.net/pdf?id=cO1IH43yUF
+- 
