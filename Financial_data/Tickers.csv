@@ -1,101 +1,101 @@
 Company;Ticker
-3M Company;MMM
-Abbott Laboratories;ABT
-Accenture Plc Class A;ACN
-Adobe Incorporated;ADBE
-AES Corporation;AES
-Alaska Air Group Inc.;ALK
-Altria Group Inc;MO
-Amazon.com Inc.;AMZN
-American Airlines Group Inc.;AAL
-Apple Inc.;AAPL
-Applied Materials Inc.;AMAT
-Becton Dickinson and Company;BDX
-Best Buy Co. Inc.;BBY
-Boeing Company;BA
-Boston Properties Inc.;BXP
-Caesars Entertainment Inc;CZR
-Campbell Soup Company;CPB
-Cardinal Health Inc.;CAH
-Carnival Corporation;CCL
-Caterpillar Inc.;CAT
-Cigna Corporation;CI
-Cisco Systems Inc.;CSCO
-Colgate-Palmolive Company;CL
-Conagra Brands Inc.;CAG
+3M;MMM
+Abbott;ABT
+Accenture;ACN
+Adobe;ADBE
+AEScorporation;AES
+AlaskaAir;ALK
+Altria;MO
+Amazon;AMZN
+AmericanAirlines;AAL
+Apple;AAPL
+AppliedMaterials;AMAT
+BD;BDX
+BestBuy;BBY
+Boeing;BA
+BostonProperties;BXP
+Caesars;CZR
+Campbells;CPB
+CardinalHealth;CAH
+Carnival;CCL
+Caterpillar;CAT
+Cigna;CI
+Cisco;CSCO
+Colgate;CL
+Conagra;CAG
 ConocoPhillips;COP
-CSX Corporation;CSX
-CVS Health Corporation;CVS
-DENTSPLY SIRONA Inc.;XRAY
-Duke Energy Corporation;DUK
-Eastman Chemical Company;EMN
-Equinix Inc.;EQIX
-Estee Lauder Companies Inc. Class A;EL
-FMC Corporation;FMC
-Goldman Sachs Group Inc.;GS
-Hasbro Inc.;HAS
-Healthpeak Properties Inc.;PEAK
-Henry Schein Inc.;HSIC
-Hewlett Packard Enterprise Co.;HPE
-Home Depot Inc.;HD
-Hormel Foods Corporation;HRL
-Howmet Aerospace Inc.;HWM
-Intel Corporation;INTC
-International Business Machines Corporation;IBM
-International Paper Company;IP
-Interpublic Group of Companies Inc.;IPG
-Invesco Ltd.;IVZ
-Iron Mountain Inc.;IRM
-J.M. Smucker Company;SJM
-Johnson & Johnson;JNJ
-JPMorgan Chase & Co.;JPM
+CSX;CSX
+CVS;CVS
+DentsplySirona;XRAY
+Duke;DUK
+EastmanChemicals;EMN
+Equinix;EQIX
+EsteeLauder;EL
+FMC;FMC
+Goldman;GS
+Hasbro;HAS
+Healthpeak;PEAK
+HenrySchein;HSIC
+HewlettPackard;HPE
+HomeDepot;HD
+HormelFood;HRL
+Howmet;HWM
+Intel;INTC
+IBM;IBM
+InternationalPaper;IP
+InterpublicGroup;IPG
+Invesco;IVZ
+IronMountain;IRM
+J.M.Smucker;SJM
+Johnson_Johnson;JNJ
+JPMorgan;JPM
 KeyCorp;KEY
-Keysight Technologies Inc;KEYS
-Kimco Realty Corporation;KIM
-Leidos Holdings Inc.;LDOS
-Lincoln National Corporation;LNC
-Lockheed Martin Corporation;LMT
-Lowe's Companies Inc.;LOW
-Micron Technology Inc.;MU
-Microsoft Corporation;MSFT
-Mohawk Industries Inc.;MHK
-Mondelez International Inc. Class A;MDLZ
-NiSource Inc;NI
-Northrop Grumman Corporation;NOC
-NortonLifeLock Inc.;NLOK
-Norwegian Cruise Line Holdings Ltd.;NCLH
-NRG Energy Inc.;NRG
-NVIDIA Corporation;NVDA
-Omnicom Group Inc;OMC
-Pentair plc;PNR
-PepsiCo Inc.;PEP
-PNC Financial Services Group Inc.;PNC
-Procter & Gamble Company;PG
-Prologis Inc.;PLD
-PVH Corp.;PVH
-Qualcomm Incorporated;QCOM
-Quest Diagnostics Incorporated;DGX
-Royal Caribbean Group;RCL
-S&P Global Inc.;SPGI
-Seagate Technology Holdings PLC;STX
-Sealed Air Corporation;SEE
-Southwest Airlines Co.;LUV
-Stanley Black & Decker Inc.;SWK
-Starbucks Corporation;SBUX
-Tapestry Inc.;TPR
-Texas Instruments Incorporated;TXN
-TJX Companies Inc;TJX
-Union Pacific Corporation;UNP
-United Parcel Service Inc. Class B;UPS
-United Rentals Inc.;URI
-Verizon Communications Inc.;VZ
-Visa Inc. Class A;V
-Vornado Realty Trust;VNO
-Walmart Inc.;WMT
-Walt Disney Company;DIS
-Waste Management Inc.;WM
-Wells Fargo & Company;WFC
-Whirlpool Corporation;WHR
-Wynn Resorts Limited;WYNN
-Xylem Inc.;XYL
-Comerica Incorporated;CMA
+Keysight;KEYS
+Kimco;KIM
+Leidos;LDOS
+Lincoln;LNC
+Lockheed;LMT
+Lowes;LOW
+Micron;MU
+Microsoft;MSFT
+Mohawk;MHK
+Mondelez;MDLZ
+NiSource;NI
+Northrop;NOC
+NortonLifeLock;NLOK
+NorweigeanCruiseLine;NCLH
+NRG;NRG
+Nvidia;NVDA
+Omnicon;OMC
+Pentair;PNR
+Pepsi;PEP
+PNC;PNC
+P_G;PG
+Prologis;PLD
+PVH;PVH
+Qualcomm;QCOM
+QuestDiagnostics;DGX
+RoyalCaribbean;RCL
+S_P;SPGI
+Seagate;STX
+SealedAir;SEE
+SouthwestAirlines;LUV
+Stanley;SWK
+Starbucks;SBUX
+Tapestry;TPR
+TexasInstruments;TXN
+TJX;TJX
+UnionPacific;UNP
+UPS;UPS
+UnitedRentals;URI
+Verizon;VZ
+Visa;V
+Vornado;VNO
+Walmart;WMT
+Disney;DIS
+WasteManagemen;WM
+WellsFargo;WFC
+Whirlpool;WHR
+Wynn;WYNN
+Xylem;XYL
+Comerica;CMA
