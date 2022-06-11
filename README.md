@@ -14,7 +14,7 @@ To reproduce the experiments conducted in this project follow the following inst
 - Upload the file to Google Colab and run all cells
 
 #### Financial model
-- 
+- Run the file panel_data.ipynb
 
 
 Authors:
