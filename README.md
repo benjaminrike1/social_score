@@ -21,6 +21,6 @@ To reproduce the experiments conducted in this project follow the following inst
 - Run the file panel_data.ipynb
 
 
-Authors:
+#### Authors:
 - Benjamin Rike
 - Asbjørn Nisi
